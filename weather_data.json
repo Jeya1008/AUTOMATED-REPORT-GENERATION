@@ -1,0 +1,225 @@
+{
+  "Chennai": {
+    "coord": {
+      "lon": 80.2702,
+      "lat": 13.0837
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 32.59,
+      "feels_like": 37.2,
+      "temp_min": 32.59,
+      "temp_max": 32.59,
+      "pressure": 1002,
+      "humidity": 56,
+      "sea_level": 1002,
+      "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 6.15,
+      "deg": 115,
+      "gust": 8.05
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751282972,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1751242551,
+      "sunset": 1751288939
+    },
+    "timezone": 19800,
+    "id": 1465730,
+    "name": "Park Town",
+    "cod": 200
+  },
+  "Mumbai": {
+    "coord": {
+      "lon": 72.8782,
+      "lat": 19.0785
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 28.66,
+      "feels_like": 34.21,
+      "temp_min": 28.66,
+      "temp_max": 28.66,
+      "pressure": 1002,
+      "humidity": 82,
+      "sea_level": 1002,
+      "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 9.84,
+      "deg": 239,
+      "gust": 12.45
+    },
+    "clouds": {
+      "all": 78
+    },
+    "dt": 1751283195,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1751243644,
+      "sunset": 1751291395
+    },
+    "timezone": 19800,
+    "id": 8131499,
+    "name": "Konkan Division",
+    "cod": 200
+  },
+  "Delhi": {
+    "coord": {
+      "lon": 77.209,
+      "lat": 28.6139
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.39,
+      "feels_like": 32.8,
+      "temp_min": 29.39,
+      "temp_max": 29.39,
+      "pressure": 996,
+      "humidity": 66,
+      "sea_level": 996,
+      "grnd_level": 970
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.51,
+      "deg": 63,
+      "gust": 2.8
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751283567,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1751241384,
+      "sunset": 1751291575
+    },
+    "timezone": 19800,
+    "id": 1260877,
+    "name": "Parliament House, Delhi",
+    "cod": 200
+  },
+  "Kolkata": {
+    "coord": {
+      "lon": 88.3639,
+      "lat": 22.5726
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 30.81,
+      "feels_like": 36.81,
+      "temp_min": 30.81,
+      "temp_max": 30.81,
+      "pressure": 994,
+      "humidity": 69,
+      "sea_level": 994,
+      "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 5.92,
+      "deg": 180,
+      "gust": 6.87
+    },
+    "rain": {
+      "1h": 1.54
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751283403,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1751239503,
+      "sunset": 1751288101
+    },
+    "timezone": 19800,
+    "id": 1275004,
+    "name": "Kolkata",
+    "cod": 200
+  },
+  "Bangalore": {
+    "coord": {
+      "lon": 77.5946,
+      "lat": 12.9716
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 27.68,
+      "feels_like": 28.43,
+      "temp_min": 27.68,
+      "temp_max": 27.68,
+      "pressure": 1007,
+      "humidity": 54,
+      "sea_level": 1007,
+      "grnd_level": 910
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.1,
+      "deg": 266,
+      "gust": 9.52
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1751283302,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1751243205,
+      "sunset": 1751289569
+    },
+    "timezone": 19800,
+    "id": 1277333,
+    "name": "Bengaluru",
+    "cod": 200
+  }
+}
